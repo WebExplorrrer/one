@@ -115,3 +115,6 @@ div p{
     max-width: 70%;
     margin-left: 60px;
 }
+div a p{
+    align-items: center;
+}
